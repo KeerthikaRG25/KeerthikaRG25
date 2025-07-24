@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KeerthikaRG</h1>
-<h3 align="center">Front end Developer || UI/UX Designer</h3>
+<h3 align="center">Front end Developer || UI/UX Designer || Full Stack Developer</h3>
 
 - 📫 How to reach me **keerthikarg1@gmail.com**
 
